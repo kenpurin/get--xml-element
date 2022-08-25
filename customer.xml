@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<data>
+    <customer name="John" id="001">
+        <age>30</age>
+        <gender>male</gender>
+        <nationality>Swiss</nationality>
+        <address name="Northwich">
+            <no>122/4</no>
+            <zipcode>70000</zipcode>
+        </address>
+        <telNo>012-0989999</telNo>
+    </customer>
+    <customer name="Joe" id="002">
+        <age>27</age>
+        <gender>male</gender>
+        <nationality>English</nationality>
+        <address name="Greenflower">
+            <no>20-5</no>
+            <zipcode>129820</zipcode>
+        </address>
+        <telNo>011-1234442</telNo>
+    </customer>
+    <customer name="Mary" id="003">
+        <age>26</age>
+        <gender>female</gender>
+        <nationality>Australian</nationality>
+        <address name="Merton">
+            <no>112/2-6</no>
+            <zipcode>00090</zipcode>
+        </address>
+        <telNo>088-9001234</telNo>
+    </customer>
+    <customer name="Rica" id="004">
+        <age>29</age>
+        <gender>female</gender>
+        <nationality>English</nationality>
+        <address name="Greenflower">
+            <no>20-119</no>
+            <zipcode>129820</zipcode>
+        </address>
+        <telNo>099-1238888</telNo>\
+    </customer>
+</data>
